@@ -3,12 +3,11 @@
 # Simple Calculator App
 
 # Features
-Simple and easy-to-use interface
-Performs basic mathematical calculations
+Simple and easy-to-use interface  
+
+Performs basic mathematical calculations  
+
 Displays both the input and output of the calculation
-
-
-
 # Output
 ![cal1](https://user-images.githubusercontent.com/113511921/232098751-0ede38d8-5bc7-4d77-a329-32b3e31ca387.png)
 ![cal2](https://user-images.githubusercontent.com/113511921/232098754-15ddbd43-5d57-4b67-a64f-8ab2b5f16196.png)
