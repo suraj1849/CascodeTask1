@@ -2,6 +2,9 @@
 
 # Simple Calculator App
 
+#About 
+This is a simple calculator app created by me using JavaScript and React Native. It allows users to perform basic mathematical calculations such as addition, subtraction, multiplication, and division. The app features a simple and easy-to-use interface and displays both the input and output of the calculation. It was created using React Native framework and can be built for Android devices. 
+
 # Features
 Simple and easy-to-use interface  
 
